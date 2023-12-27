@@ -1,2 +1,2 @@
-# Major_Project_AI_ML_Report
+# Major_Project_AI_ML_Youtube_Trend_Prediction_Analysis
 https://colab.research.google.com/drive/1Nodq1yDfAoUq_j29ZfTDOOZrFph13CEi?usp=sharing
